@@ -1,9 +1,9 @@
 # Better-OneUI (OneUI 4 and UP)
 Slightly enhancing your OneUI Experience 
 <p align="left">
-  <a href="https://t.me/SecHehe">🚀 Discussions</a>
+  <a href="https://t.me/SecHehe">✒️ Discussions</a>
   •
-  <a href="https://t.me/channelhehejuice">💬 Telegram</a>
+  <a href="https://t.me/channelhehejuice">📜 Telegram Channel</a>
   
 # Features
 - Added New Designed Icon and Monochrome Icon for Apps from Samsung that doesn't have Monochrome Icons 
