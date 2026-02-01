@@ -1,5 +1,5 @@
-# Better-OneUI (OneUI 4 and UP)
-Slightly enhancing your OneUI Experience 
+# Better-OneUI (OneUI 7 and UP)
+Enhancing your OneUI Experience • Details Matters • 细节决定成败
 <p align="left">
   <a href="https://t.me/SecHehe">✒️ Discussions</a>
   •
@@ -20,3 +20,4 @@ Slightly enhancing your OneUI Experience
 # Notice 
 You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
 The module will be private if I found out someone shares without it
+PM @HeheJuice if you want to inplant it in your ROM
