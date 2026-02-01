@@ -18,5 +18,5 @@ Slightly enhancing your OneUI Experience
 - Used FifthSnow's Monet code
 
 # Notice 
-You are not allowed to re-upload this file anywhere without my permission !!!
+You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
 The module will be private if I found out someone shares without it
