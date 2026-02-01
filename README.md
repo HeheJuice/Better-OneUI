@@ -14,3 +14,6 @@ Slightly enhancing your OneUI Experience
   
 # Screenshots 
 - In Folder/Screenshots/
+
+# Credits
+- Used FifthSnow's Monet code
