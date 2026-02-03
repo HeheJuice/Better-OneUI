@@ -21,5 +21,3 @@ Enhancing your OneUI Experience • Details Matters • 细节决定成败
 You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
 
 The module will be private if I found out someone shares without it
-
-PM @HeheJuice if you want to inplant it in your ROM
