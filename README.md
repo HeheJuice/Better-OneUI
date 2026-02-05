@@ -11,6 +11,11 @@ Enhancing your OneUI Experience • Details Matters • 细节决定成败
 - Added more monet elements based on OneUI 8 System icons
   - Power menu
   - Settings homepage icons
+  - XML Images in Settings Now follows Monet
+  - Notification Badges now follows Monet
+- Extra Features
+  - ASKS Disable
+  - Better Round Corner in 3rd Party Apps
 # Screenshots 
 - In Folder/Screenshots/
 
