@@ -19,8 +19,6 @@ Enhancing your OneUI Experience • Details Matters • 细节决定成败
 # Screenshots 
 - In Folder/Screenshots/
 
-# Credits
-- Used FifthSnow's Monet code
 
 # Notice 
 You are not allowed to re-upload, modify this file or add it to your "ROM" anywhere without my permission !!!
