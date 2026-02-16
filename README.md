@@ -13,6 +13,10 @@ Enhancing your OneUI Experience • Details Matters • 细节决定成败
   - Settings homepage icons Now follows Monet
   - XML Images in Settings Now follows Monet
   - Notification Badges now follows Monet
+  - Accessibly Now follows Monet (Unreleased)
+- Added some useful shortcuts with OneUI Style Icons (Unreleased)
+  - Live Wallpaper Picker 
+  - Developer Options 
 - Extra Features
   - ASKS Disable
   - Better Round Corner in 3rd Party Apps
