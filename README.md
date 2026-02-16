@@ -13,8 +13,8 @@ Enhancing your OneUI Experience • Details Matters • 细节决定成败
   - Settings homepage icons Now follows Monet
   - XML Images in Settings Now follows Monet
   - Notification Badges now follows Monet
-  - Accessibly Now follows Monet (Unreleased)
-- Added some useful shortcuts with OneUI Style Icons (Unreleased)
+  - Accessibly Now follows Monet
+- Added some useful shortcuts with OneUI Style Icons
   - Live Wallpaper Picker 
   - Developer Options 
 - Extra Features
